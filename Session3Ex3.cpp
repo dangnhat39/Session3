@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define PI 3.14159  // Ð?nh ngh?a h?ng s? PI
+#define PI 3.14159  
 
 int main() {
     float radius, circumference, area;
